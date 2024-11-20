@@ -3,7 +3,7 @@ import { Flex, Box, Button } from "@radix-ui/themes";
 
 const Header = () => {
     return (
-        <Flex align={"center"} justify="between" gap="4" direction={'row'} width={"100%"}>
+        <Flex align={"center"} justify="between" gap="4" direction={'row'}>
             <Box>
                 <Button>
                     知产平台
